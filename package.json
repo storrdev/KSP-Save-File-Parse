@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/storrdev/KSP-Save-File-Parse",
   "devDependencies": {
-    "grunt": "^0.4.5"
+    "grunt": "^0.4.5",
+    "grunt-contrib-concat": "^0.5.1"
   }
 }
